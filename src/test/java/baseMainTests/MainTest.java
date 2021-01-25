@@ -26,6 +26,7 @@ public class MainTest{
 	    @Then("^Verify the login$")
 	    public void verify_the_login() throws Throwable {
 	    	System.out.println("Success verification");
+	    	System.out.println("Success verification123");
 	    }
 
 	    @And("^close all browsers$")
