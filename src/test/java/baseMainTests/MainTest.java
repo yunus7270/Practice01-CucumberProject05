@@ -27,6 +27,8 @@ public class MainTest{
 	    public void verify_the_login() throws Throwable {
 	    	System.out.println("Success verification");
 	    	System.out.println("Success verification123");
+	    	System.out.println("Success verification");
+	    	System.out.println("Success verification123");
 	    }
 
 	    @And("^close all browsers$")
