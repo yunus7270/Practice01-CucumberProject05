@@ -30,7 +30,9 @@ public class MainTest{
 
 	    @And("^close all browsers$")
 	    public void close_all_browsers() throws Throwable {
-	    	System.out.println("Success closing all pages");
+	    	System.out.println("Success closing all pages0");
+	    	System.out.println("Success closing all pages1");
+	    	System.out.println("Success closing all pages2");
 	    }
 	
 
